@@ -1,0 +1,6 @@
+
+1squid:S1220""Move this file to a named package.
+Vsquid:S1191"5Use classes from the Java API instead of Sun classes.(áÍäüşÿÿÿÿ8ÚíÍöş+
+Ysquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8†µšîş+
+Osquid:S1481".Remove this unused "something" local variable.(ÉèÚ‰ûÿÿÿÿ8¸èÑøş+
+]squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Array'.(‡¡É˜8Íú“îş+
